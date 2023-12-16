@@ -1,8 +1,8 @@
-# Web Design
+## Web Design
+![image](openbook.jpg)
 
-
-# Web Structure
-
+## Web Structure
+![image](structure.jpg)
 
 
 ## Recommended IDE Setup
