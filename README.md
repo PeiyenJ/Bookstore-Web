@@ -5,9 +5,8 @@
 ![image](structure.jpg)
 
 ## Web Link
-http://34.30.165.251/
-帳號:cafe
-密碼:123
+佈署 GCE  http://34.30.165.251/
+體驗登入帳號:cafe、密碼:123
 
 ## Recommended IDE Setup
 
