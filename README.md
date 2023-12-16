@@ -1,7 +1,7 @@
 ## Web Design
 ![image](openbook.jpg)
 
-## Web Structure
+## System Structure
 ![image](structure.jpg)
 
 ## Web Link
